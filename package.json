@@ -1,0 +1,13 @@
+{
+  "name": "system-monitor",
+  "version": "1.0.0",
+  "description": "Simple system monitor using native Node.js modules",
+  "main": "monitor.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node monitor.js"
+  },
+  "keywords": ["nodejs", "system", "monitor"],
+  "author": "Cleudson Leal",
+  "license": "MIT"
+}
